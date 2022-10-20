@@ -6,7 +6,7 @@
   "files": [
     "dist"
   ],
-  "type": "module",
+  "type": "commonJs",
   "engines": {
     "node": ">=10"
   },
@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@ref_finance/ref-sdk",
+  "name": "@coinalpha/ref-sdk",
   "author": "Ref Finance",
   "module": "dist/ref-sdk.esm.js",
   "size-limit": [
